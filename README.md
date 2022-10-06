@@ -1,6 +1,6 @@
 # __Josué Augusto Estrada López__
 
-:email:[Email](mailto:josuestrd@outlook.com) / :link:[LinkedIn](https://www.linkedin.com/in/josuestrd) / :computer:[GitHub](https://github.com/JosueEstrada)
+[Email](mailto:josuestrd@outlook.com) / [LinkedIn](https://www.linkedin.com/in/josuestrd) / [GitHub](https://github.com/JosueEstrada)
 
 Fecha de Nacimiento:  17/08/1995
 
