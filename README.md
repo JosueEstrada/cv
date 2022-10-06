@@ -64,9 +64,9 @@ Alumno de 7to ciclo
 
 ---
 ## *IDIOMAS*
-:peru: **Español**: Nativo
+**Español**: Nativo
 
-:us: **Inglés**: Básico
+**Inglés**: Básico
 
 ---
 ## CERTIFICACIONES
